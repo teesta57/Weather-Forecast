@@ -110,6 +110,13 @@ The **Weather Report Dashboard** delivers a holistic view of environmental condi
 
 ---
 
+## 📊 Data Source
+
+* **Source:** WeatherAPI
+* **Link:** [https://www.weatherapi.com](https://www.weatherapi.com)
+
+---
+
 ## 🚀 How to Use This Project
 
 1. Clone or download the repository:
