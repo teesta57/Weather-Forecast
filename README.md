@@ -75,6 +75,17 @@ The **Weather Report Dashboard** delivers a holistic view of environmental condi
 - **Insight:** Supports complete meteorological understanding beyond basic temperature tracking.
 
 ---
+
+## 📷 Few Snapshots:
+
+![Kolkata Forecast](Previews/KolkataForecast.png)
+
+![Shimla Forecast](Previews/ShimlaForecast.png)
+
+![Florence Forecast](Previews/FlorenceForecast.png)
+
+---
+
 ## 📂 File Structure
 
 ```
