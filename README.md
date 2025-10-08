@@ -78,11 +78,11 @@ The **Weather Report Dashboard** delivers a holistic view of environmental condi
 
 ## 📷 Few Snapshots:
 
-![Kolkata Forecast](Previews/KolkataForecast.png)
+![Kolkata Forecast](Previews/KolkataForecast.PNG)
 
-![Shimla Forecast](Previews/ShimlaForecast.png)
+![Shimla Forecast](Previews/ShimlaForecast.PNG)
 
-![Florence Forecast](Previews/FlorenceForecast.png)
+![Florence Forecast](Previews/FlorenceForecast.PNG)
 
 ---
 
