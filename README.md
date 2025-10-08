@@ -78,10 +78,13 @@ The **Weather Report Dashboard** delivers a holistic view of environmental condi
 
 ## 📷 Few Snapshots:
 
+Kolkata
 ![Kolkata Forecast](Previews/KolkataForecast.PNG)
 
+Shimla
 ![Shimla Forecast](Previews/ShimlaForecast.PNG)
 
+Florence
 ![Florence Forecast](Previews/FlorenceForecast.PNG)
 
 ---
@@ -115,7 +118,7 @@ The **Weather Report Dashboard** delivers a holistic view of environmental condi
    git clone https://github.com/teesta57/Weather-Forecast.git
    ```
 2. Open the `Weather-Forecast-Report.pbix` file in Power BI Desktop.
-3. Explore the dashboard and apply filters to interact with the data.
+3. Explore the dashboard and interact with the data.
 
 ---
 
