@@ -1,4 +1,4 @@
-# Weather-Forecst-Dashboard
+# Weather-Forecast-Dashboard
 
 This project presents an interactive **Power BI dashboard** visualizing real-time and forecasted weather insights.  
 It combines temperature, humidity, air quality, pressure, and other atmospheric indicators into a sleek and intuitive interface, providing a complete snapshot of current and future weather conditions.
